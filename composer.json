@@ -1,12 +1,12 @@
 {
-    "name": "<Sauky13>/collect",
+    "name": "sauky13/collect",
     "description": "Module for working with arrays ",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "<Rina>",
-            "email": "<kremis8@mail.>"
+            "name": "Sauky13",
+            "email": "kremis8@mail.ru"
         }
     ],
     "minimum-stability": "dev",
